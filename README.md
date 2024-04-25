@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am  Aditya Patil</h1>
 <h3 align="center">curious about data</h3>
-<img align="center" alt="" src="https://static.wixstatic.com/media/11062b_7d8badf22ed9415e8c2974ee130d4943~mv2.jpg/v1/fill/w_1899,h_869,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_7d8badf22ed9415e8c2974ee130d4943~mv2.jpg"/> 
+<img align="center" alt="" src="https://miro.medium.com/v2/resize:fit:1400/1*hir2A7jXWfghAXoeY5MAdA.gif"/> 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adityapatil3015&label=Profile%20views&color=0e75b6&style=flat" alt="Adityapatil3015" /> </p>
